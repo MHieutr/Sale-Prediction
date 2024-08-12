@@ -1,0 +1,8 @@
+#ignore folder
+DTDM/
+Slides/
+#ignore zip file
+*.zip
+
+#ignore ipnyb_checkpoints
+.ipynb_checkpoints
